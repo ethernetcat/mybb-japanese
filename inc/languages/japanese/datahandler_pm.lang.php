@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8 Japanese Language Pack
- * Author: snake0053
- * GitHub: https://github.com/snake0053/mybb-japanese
+ * Author: SNAKE(ethernetcat)
+ * GitHub: https://github.com/ethernetcat/mybb-japanese
  */
 
 $l['pmdata_too_long_subject'] = 'プライベートメッセージの件名が長すぎます。件名を短くしてください。';

@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8 Japanese Language Pack
- * Author: snake0053
- * GitHub: https://github.com/snake0053/mybb-japanese
+ * Author: SNAKE(ethernetcat)
+ * GitHub: https://github.com/ethernetcat/mybb-japanese
  */
 
 $l['logindata_invalidpwordusername'] = "無効なユーザー名とパスワードの組み合わせを入力しました。<br><br>パスワードを忘れた場合は<a href=\"member.php?action=lostpw\">新しいパスワード</a>を取得してください。";

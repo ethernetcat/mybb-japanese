@@ -1,8 +1,8 @@
 <?php
 /**
  * MyBB 1.8 Japanese Language Pack
- * Author: snake0053
- * GitHub: https://github.com/snake0053/mybb-japanese
+ * Author: SNAKE(ethernetcat)
+ * GitHub: https://github.com/ethernetcat/mybb-japanese
  */
 
 $l['eventdata_missing_name'] = "イベント名がありません。イベント名を入力してください。";
