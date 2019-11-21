@@ -1,30 +1,30 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Japanese Language Pack
+ * Author: SNAKE(ethernetcat)
+ * GitHub: https://github.com/ethernetcat/mybb-japanese
  */
 
-$l['delete_poll'] = "Delete Poll";
-$l['close_thread'] = "Close Thread";
-$l['stick_thread'] = "Stick Thread";
+$l['delete_poll'] = "投票の詳細";
+$l['close_thread'] = "スレッドを閉じる";
+$l['stick_thread'] = "スレッドを固定";
 
-$l['author'] = "Author";
-$l['message'] = "Message";
-$l['threaded'] = "Threaded Mode";
-$l['linear'] = "Linear Mode";
-$l['thread_modes'] = "Thread Modes";
-$l['next_oldest'] = "Next Oldest";
-$l['next_newest'] = "Next Newest";
-$l['view_printable'] = "View a Printable Version";
-$l['send_thread'] = "Send this Thread to a Friend";
-$l['subscribe_thread'] = "Subscribe to this thread";
-$l['unsubscribe_thread'] = "Unsubscribe from this thread";
-$l['add_poll_to_thread'] = "Add Poll to this thread";
-$l['moderation_options'] = "Moderation Options:";
-$l['delayed_moderation'] = "Delayed Moderation";
-$l['thread_notes'] = "Edit / View Thread Notes";
-$l['open_close_thread'] = "Open / Close Thread";
+$l['author'] = "投稿者";
+$l['message'] = "メッセージ";
+$l['threaded'] = "スレッドモード";
+$l['linear'] = "全表示モード";
+$l['thread_modes'] = "スレッドモード";
+$l['next_oldest'] = "古いスレッドへ";
+$l['next_newest'] = "新しいスレッドへ";
+$l['view_printable'] = "印刷可能なバージョンを見る";
+$l['send_thread'] = "このスレッドを友達に送信";
+$l['subscribe_thread'] = "このスレッドを購読";
+$l['unsubscribe_thread'] = "このスレッドの購読を解除";
+$l['add_poll_to_thread'] = "このスレッドに投票を追加";
+$l['moderation_options'] = "モデレータオプション:";
+$l['delayed_moderation'] = "遅延モデレーション";
+$l['thread_notes'] = "スレッドノートを編集 / 表示";
+$l['open_close_thread'] = "開く / 閉じる Thread";
 $l['approve_thread'] = "Approve Thread";
 $l['unapprove_thread'] = "Unapprove Thread";
 $l['soft_delete_thread'] = "Soft Delete Thread";
