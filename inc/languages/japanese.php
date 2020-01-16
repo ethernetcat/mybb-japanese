@@ -1,21 +1,15 @@
 <?php
-/**
- * MyBB 1.8 Japanese Language Pack
- * Author: snake0053
- * GitHub: https://github.com/snake0053/mybb-japanese
- */
-
 // The friendly name of the language
 $langinfo['name'] = "日本語(Japanese)";
 
 // The author of the language
-$langinfo['author'] = "snake0053";
+$langinfo['author'] = "SNAKE(ethernetcat)";
 
 // The language authors website
-$langinfo['website'] = "https://github.com/snake0053/mybb-japanese";
+$langinfo['website'] = "https://github.com/ethernetcat/mybb-japanese";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1821";
+$langinfo['version'] = "1822";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 0;
